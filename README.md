@@ -3,8 +3,7 @@
 Personal portfolio for machine learning, data and automation work.
 Plain HTML, CSS and JavaScript. No build step, no dependencies.
 
-**Live site:** https://Sapphire-Moon.github.io/maisha-portfolio/
-
+**Live site:** https://sapphire-moon.github.io/maisha-portfolio/
 ## Folder structure
 
 ```
